@@ -1,0 +1,155 @@
+"nameSpecie" "K1" "K2" "K3" "K4"
+"hsa" "Eukaryotes" "Animals" "Vertebrates" "Mammals"
+"ptr" "Eukaryotes" "Animals" "Vertebrates" "Mammals"
+"pon" "Eukaryotes" "Animals" "Vertebrates" "Mammals"
+"mcc" "Eukaryotes" "Animals" "Vertebrates" "Mammals"
+"mmu" "Eukaryotes" "Animals" "Vertebrates" "Mammals"
+"rno" "Eukaryotes" "Animals" "Vertebrates" "Mammals"
+"aml" "Eukaryotes" "Animals" "Vertebrates" "Mammals"
+"bta" "Eukaryotes" "Animals" "Vertebrates" "Mammals"
+"ecb" "Eukaryotes" "Animals" "Vertebrates" "Mammals"
+"mdo" "Eukaryotes" "Animals" "Vertebrates" "Mammals"
+"gga" "Eukaryotes" "Animals" "Vertebrates" "Birds"
+"acs" "Eukaryotes" "Animals" "Vertebrates" "Reptiles"
+"xtr" "Eukaryotes" "Animals" "Vertebrates" "Amphibians"
+"dre" "Eukaryotes" "Animals" "Vertebrates" "Fishes"
+"cfa" "Eukaryotes" "Animals" "Vertebrates" "Mammals"
+"mgp" "Eukaryotes" "Animals" "Vertebrates" "Birds"
+"ssc" "Eukaryotes" "Animals" "Vertebrates" "Mammals"
+"oaa" "Eukaryotes" "Animals" "Vertebrates" "Mammals"
+"tgu" "Eukaryotes" "Animals" "Vertebrates" "Birds"
+"xla" "Eukaryotes" "Animals" "Vertebrates" "Amphibians"
+"bfo" "Eukaryotes" "Animals" "Lancelets" NA
+"cin" "Eukaryotes" "Animals" "Ascidians" NA
+"dpo" "Eukaryotes" "Animals" "Arthropods" "Insects"
+"spu" "Eukaryotes" "Animals" "Echinoderms" NA
+"dme" "Eukaryotes" "Animals" "Arthropods" "Insects"
+"dan" "Eukaryotes" "Animals" "Arthropods" "Insects"
+"der" "Eukaryotes" "Animals" "Arthropods" "Insects"
+"dpe" "Eukaryotes" "Animals" "Arthropods" "Insects"
+"dse" "Eukaryotes" "Animals" "Arthropods" "Insects"
+"dwi" "Eukaryotes" "Animals" "Arthropods" "Insects"
+"dya" "Eukaryotes" "Animals" "Arthropods" "Insects"
+"dgr" "Eukaryotes" "Animals" "Arthropods" "Insects"
+"dmo" "Eukaryotes" "Animals" "Arthropods" "Insects"
+"dvi" "Eukaryotes" "Animals" "Arthropods" "Insects"
+"aga" "Eukaryotes" "Animals" "Arthropods" "Insects"
+"cqu" "Eukaryotes" "Animals" "Arthropods" "Insects"
+"nvi" "Eukaryotes" "Animals" "Arthropods" "Insects"
+"dsi" "Eukaryotes" "Animals" "Arthropods" "Insects"
+"aag" "Eukaryotes" "Animals" "Arthropods" "Insects"
+"ame" "Eukaryotes" "Animals" "Arthropods" "Insects"
+"tca" "Eukaryotes" "Animals" "Arthropods" "Insects"
+"api" "Eukaryotes" "Animals" "Arthropods" "Insects"
+"phu" "Eukaryotes" "Animals" "Arthropods" "Insects"
+"isc" "Eukaryotes" "Animals" "Arthropods" "Mites and ticks"
+"cel" "Eukaryotes" "Animals" "Nematodes" NA
+"cbr" "Eukaryotes" "Animals" "Nematodes" NA
+"bmy" "Eukaryotes" "Animals" "Nematodes" NA
+"tsp" "Eukaryotes" "Animals" "Nematodes" NA
+"smm" "Eukaryotes" "Animals" "Flatworms" NA
+"nve" "Eukaryotes" "Animals" "Cnidarians" NA
+"hmg" "Eukaryotes" "Animals" "Cnidarians" NA
+"tad" "Eukaryotes" "Animals" "Placozoans" NA
+"ath" "Eukaryotes" "Plants" "Eudicots" "Mustard family"
+"aly" "Eukaryotes" "Plants" "Eudicots" "Mustard family"
+"pop" "Eukaryotes" "Plants" "Eudicots" "Willow family"
+"rcu" "Eukaryotes" "Plants" "Eudicots" "Spurge family"
+"vvi" "Eukaryotes" "Plants" "Eudicots" "Grape family"
+"zma" "Eukaryotes" "Plants" "Monocots" "Grass family"
+"ppp" "Eukaryotes" "Plants" "Mosses" NA
+"gmx" "Eukaryotes" "Plants" "Eudicots" "Pea family"
+"bdi" "Eukaryotes" "Plants" "Monocots" "Grass family"
+"smo" "Eukaryotes" "Plants" "Ferns" NA
+"mtr" "Eukaryotes" "Plants" "Eudicots" "Pea family"
+"osa" "Eukaryotes" "Plants" "Monocots" "Grass family"
+"sbi" "Eukaryotes" "Plants" "Monocots" "Grass family"
+"cre" "Eukaryotes" "Plants" "Green algae" NA
+"vcn" "Eukaryotes" "Plants" "Green algae" NA
+"olu" "Eukaryotes" "Plants" "Green algae" NA
+"ota" "Eukaryotes" "Plants" "Green algae" NA
+"cme" "Eukaryotes" "Plants" "Red algae" NA
+"sce" "Eukaryotes" "Fungi" "Ascomycetes" "Saccharomycetes"
+"kla" "Eukaryotes" "Fungi" "Ascomycetes" "Saccharomycetes"
+"vpo" "Eukaryotes" "Fungi" "Ascomycetes" "Saccharomycetes"
+"zro" "Eukaryotes" "Fungi" "Ascomycetes" "Saccharomycetes"
+"dha" "Eukaryotes" "Fungi" "Ascomycetes" "Saccharomycetes"
+"pic" "Eukaryotes" "Fungi" "Ascomycetes" "Saccharomycetes"
+"pgu" "Eukaryotes" "Fungi" "Ascomycetes" "Saccharomycetes"
+"lel" "Eukaryotes" "Fungi" "Ascomycetes" "Saccharomycetes"
+"cal" "Eukaryotes" "Fungi" "Ascomycetes" "Saccharomycetes"
+"ctp" "Eukaryotes" "Fungi" "Ascomycetes" "Saccharomycetes"
+"cdu" "Eukaryotes" "Fungi" "Ascomycetes" "Saccharomycetes"
+"clu" "Eukaryotes" "Fungi" "Ascomycetes" "Saccharomycetes"
+"bfu" "Eukaryotes" "Fungi" "Ascomycetes" "Leotiomycetes"
+"nfi" "Eukaryotes" "Fungi" "Ascomycetes" "Eurotiomycetes"
+"aor" "Eukaryotes" "Fungi" "Ascomycetes" "Eurotiomycetes"
+"afv" "Eukaryotes" "Fungi" "Ascomycetes" "Eurotiomycetes"
+"pcs" "Eukaryotes" "Fungi" "Ascomycetes" "Eurotiomycetes"
+"cpw" "Eukaryotes" "Fungi" "Ascomycetes" "Eurotiomycetes"
+"ure" "Eukaryotes" "Fungi" "Ascomycetes" "Eurotiomycetes"
+"ago" "Eukaryotes" "Fungi" "Ascomycetes" "Saccharomycetes"
+"yli" "Eukaryotes" "Fungi" "Ascomycetes" "Saccharomycetes"
+"lbc" "Eukaryotes" "Fungi" "Basidiomycetes" NA
+"lth" "Eukaryotes" "Fungi" "Ascomycetes" "Saccharomycetes"
+"ncr" "Eukaryotes" "Fungi" "Ascomycetes" "Sordariomycetes"
+"pan" "Eukaryotes" "Fungi" "Ascomycetes" "Sordariomycetes"
+"mgr" "Eukaryotes" "Fungi" "Ascomycetes" "Sordariomycetes"
+"fgr" "Eukaryotes" "Fungi" "Ascomycetes" "Sordariomycetes"
+"afm" "Eukaryotes" "Fungi" "Ascomycetes" "Eurotiomycetes"
+"act" "Eukaryotes" "Fungi" "Ascomycetes" "Eurotiomycetes"
+"ppa" "Eukaryotes" "Fungi" "Ascomycetes" "Saccharomycetes"
+"cgr" "Eukaryotes" "Fungi" "Ascomycetes" "Saccharomycetes"
+"smp" "Eukaryotes" "Fungi" "Ascomycetes" "Sordariomycetes"
+"pte" "Eukaryotes" "Fungi" "Ascomycetes" "Dothideomycetes"
+"nhe" "Eukaryotes" "Fungi" "Ascomycetes" "Sordariomycetes"
+"ssl" "Eukaryotes" "Fungi" "Ascomycetes" "Leotiomycetes"
+"ani" "Eukaryotes" "Fungi" "Ascomycetes" "Eurotiomycetes"
+"ang" "Eukaryotes" "Fungi" "Ascomycetes" "Eurotiomycetes"
+"cim" "Eukaryotes" "Fungi" "Ascomycetes" "Eurotiomycetes"
+"abe" "Eukaryotes" "Fungi" "Ascomycetes" "Eurotiomycetes"
+"tve" "Eukaryotes" "Fungi" "Ascomycetes" "Eurotiomycetes"
+"pno" "Eukaryotes" "Fungi" "Ascomycetes" "Dothideomycetes"
+"tml" "Eukaryotes" "Fungi" "Ascomycetes" "Pezizomycetes"
+"cci" "Eukaryotes" "Fungi" "Basidiomycetes" NA
+"scm" "Eukaryotes" "Fungi" "Basidiomycetes" NA
+"spo" "Eukaryotes" "Fungi" "Ascomycetes" "Schizosaccharomycetes"
+"cne" "Eukaryotes" "Fungi" "Basidiomycetes" NA
+"cnb" "Eukaryotes" "Fungi" "Basidiomycetes" NA
+"ppl" "Eukaryotes" "Fungi" "Basidiomycetes" NA
+"mpr" "Eukaryotes" "Fungi" "Basidiomycetes" NA
+"uma" "Eukaryotes" "Fungi" "Basidiomycetes" NA
+"mgl" "Eukaryotes" "Fungi" "Basidiomycetes" NA
+"ecu" "Eukaryotes" "Fungi" "Microsporidians" NA
+"nce" "Eukaryotes" "Fungi" "Microsporidians" NA
+"mbr" "Eukaryotes" "Protists" "Choanoflagellates" NA
+"ngr" "Eukaryotes" "Protists" "Amoeboflagellate" NA
+"ddi" "Eukaryotes" "Protists" "Amoebozoa" "Dictyostelium"
+"ehi" "Eukaryotes" "Protists" "Amoebozoa" "Entamoeba"
+"edi" "Eukaryotes" "Protists" "Amoebozoa" "Entamoeba"
+"pfa" "Eukaryotes" "Protists" "Alveolates" "Apicomplexans"
+"pfd" "Eukaryotes" "Protists" "Alveolates" "Apicomplexans"
+"pyo" "Eukaryotes" "Protists" "Alveolates" "Apicomplexans"
+"pfh" "Eukaryotes" "Protists" "Alveolates" "Apicomplexans"
+"pbe" "Eukaryotes" "Protists" "Alveolates" "Apicomplexans"
+"pkn" "Eukaryotes" "Protists" "Alveolates" "Apicomplexans"
+"pcb" "Eukaryotes" "Protists" "Alveolates" "Apicomplexans"
+"pvx" "Eukaryotes" "Protists" "Alveolates" "Apicomplexans"
+"tan" "Eukaryotes" "Protists" "Alveolates" "Apicomplexans"
+"tpv" "Eukaryotes" "Protists" "Alveolates" "Apicomplexans"
+"bbo" "Eukaryotes" "Protists" "Alveolates" "Apicomplexans"
+"cpv" "Eukaryotes" "Protists" "Alveolates" "Apicomplexans"
+"cho" "Eukaryotes" "Protists" "Alveolates" "Apicomplexans"
+"tgo" "Eukaryotes" "Protists" "Alveolates" "Apicomplexans"
+"tet" "Eukaryotes" "Protists" "Alveolates" "Ciliates"
+"ptm" "Eukaryotes" "Protists" "Alveolates" "Ciliates"
+"tbr" "Eukaryotes" "Protists" "Euglenozoa" "Kinetoplasts"
+"tcr" "Eukaryotes" "Protists" "Euglenozoa" "Kinetoplasts"
+"lma" "Eukaryotes" "Protists" "Euglenozoa" "Kinetoplasts"
+"lif" "Eukaryotes" "Protists" "Euglenozoa" "Kinetoplasts"
+"lbz" "Eukaryotes" "Protists" "Euglenozoa" "Kinetoplasts"
+"gla" "Eukaryotes" "Protists" "Diplomonads" NA
+"tva" "Eukaryotes" "Protists" "Parabasalids" NA
+"pti" "Eukaryotes" "Protists" "Diatoms" NA
+"tps" "Eukaryotes" "Protists" "Diatoms" NA
+"pif" "Eukaryotes" "Protists" "Oomycetes" NA
